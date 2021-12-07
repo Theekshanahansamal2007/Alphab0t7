@@ -1,9 +1,9 @@
 # ```SELF-BOT```
 <p align="center">
-<a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/Alphabot7/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofc/Alphabot7?color=blue&style=flat-square"></a>
+<a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=green&style=flat-square"></a>
+<a href="https://github.com/zeeoneofc/Alphabot7/stargazers/"><img title="Dogs" src="https://img.shields.io/github/stars/zeeoneofc/Alphabot7?color=blue&style=flat-square"></a>
 <a href="https://github.com/zeeoneofc/Alphabot7/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeoneofc/Alphabot7?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/Alphabot7/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeoneofc/Alphabot7?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/zeeoneofc/Alphabot7/watchers"><img title="නැරබූ" src="https://img.shields.io/github/watchers/zeeoneofc/Alphabot7?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/zeeoneofc/Alphabot7"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 <a href="https://github.com/zeeoneofc/Alphabot7/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeoneofc/Alphabot7?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeoneofc%2FAlphabot7&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
@@ -17,12 +17,12 @@
 ## `ADD BUILDPACK`
 
 ```
-> (https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest)
+>https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 ```
 
 ## `CHANGE SESSION`
 
-
+https://github.com/Theekshanahansamal2007/theekshana-hansamal.git
 
 ## `SETTING`
 
