@@ -17,12 +17,12 @@
 ## `ADD BUILDPACK`
 
 ```
-> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+> (https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest)
 ```
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/zeeoneofc/Alphabot7/blob/master/session.json#L1)
+
 
 ## `SETTING`
 
